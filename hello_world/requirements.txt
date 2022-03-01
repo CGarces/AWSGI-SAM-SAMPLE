@@ -1,0 +1,5 @@
+requests
+aws-wsgi
+flask-cors
+openpyxl
+pandas
